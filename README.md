@@ -1,4 +1,4 @@
-# Mastering Embedded System 
+# Mastering Embedded System.
 
 My journey through the **[Mastering Embedded System Online Diploma](https://www.learn-in-depth.com)** by **Eng. Keroles Shenouda** (Learn-in-Depth).
 
