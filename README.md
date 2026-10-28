@@ -1,4 +1,4 @@
-# Mastering Embedded System 🚀
+# Mastering Embedded System 
 
 My journey through the **[Mastering Embedded System Online Diploma](https://www.learn-in-depth.com)** by **Eng. Keroles Shenouda** (Learn-in-Depth).
 
@@ -8,10 +8,9 @@ This repository contains my **assignments, labs, drivers and projects**, pushed 
 
 ## 👤 About Me
 
-- **Name:** _Your Name_
-- **Email:** _your.email@gmail.com_
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** _link here_
+- **Name:** _Ahmed Twap Mohammed_
+- **Email:** _ahmedtwap2@gmail.com_
+- **LinkedIn:** _https://www.linkedin.com/in/ahmed-twap-765725320/_
 
 ---
 
