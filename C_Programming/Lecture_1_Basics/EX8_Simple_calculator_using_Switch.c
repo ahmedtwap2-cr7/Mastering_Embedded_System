@@ -24,7 +24,7 @@ void main()
         printf("%f * %f = %f", num1, num2, result);
         break;
     case '/':
-        if (num2 == 0)
+        if (num2 == 0)//add division by zero check
         {
             printf("%f / %f = Infinity", num1, num2);
         }
