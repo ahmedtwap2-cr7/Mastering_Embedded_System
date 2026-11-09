@@ -24,8 +24,15 @@ void main()
         printf("%f * %f = %f", num1, num2, result);
         break;
     case '/':
-        result = num1 / num2;
-        printf("%f / %f = %f", num1, num2, result);
+        if (num2 == 0)
+        {
+            printf("%f / %f = Infinity", num1, num2);
+        }
+        else
+        {
+            result = num1 / num2;
+            printf("%f / %f = %f", num1, num2, result);
+        }
         break;
     default:
         printf("Error! operator is not correct");
