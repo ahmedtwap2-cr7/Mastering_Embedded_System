@@ -10,7 +10,7 @@ void main()
     {
         i++;
     }
-    i--;
+    i--;// Move to the last character
     
     printf("Reversed string: ");
     while (i >= 0)

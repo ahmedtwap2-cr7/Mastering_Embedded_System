@@ -3,10 +3,10 @@
 void main()
 {
     char str[100];
-    printf("Enetr a string :");
+    printf("Enter a string :");
     fgets(str, sizeof(str), stdin);
     int i = 0, length = 0;
-    while (str[i] != '0' && str[i] != '\n')
+    while (str[i] != '\0' && str[i] != '\n')
     {
         length++;
         i++;
